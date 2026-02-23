@@ -17,7 +17,7 @@ We are building a community grounded in accuracy and intellectual rigor. If you 
 
 **We invite you to become a Domain Guardian.**
 As a Guardian, you will help guide and review content within your area of expertise, ensuring its depth and correctness. To express your interest, please email: **billy_1024@outlook.com**.
-
+## Explore all our domains:​ See the Omnies Registry for a complete list of OMNIE projects.
 #### For Contributors & Lifelong Learners
 OmniScience is built by and for the global community of the curious. Whether you are a student, a professional, or an autodidact, you are welcome here.
 
@@ -39,6 +39,6 @@ This project begins with a simple but profound belief: **deep understanding shou
 We are starting with the first foundational concepts. The framework is ready, and the first repository awaits its initial content. From this seed, we will grow an entire universe of knowledge, together.
 
 **We look forward to building this with you.**
-
+## Explore all our domains:​ See the Omnies Registry for a complete list of OMNIE projects.
 ---
 *The first commit was made in 2026. The first concept awaits its explanation.*
